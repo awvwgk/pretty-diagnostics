@@ -1,0 +1,5 @@
+name = "pretty-diagnostics"
+description = "Tools to create pretty diagnostic reports"
+
+[dev-dependencies]
+test-drive.git = "https://github.com/fortran-lang/test-drive.git"
